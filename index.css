@@ -21,8 +21,14 @@ img {
 
 figcaption {
     text-align: center;
+<<<<<<< HEAD
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     padding-top: .55em;
     font-size: 1.5rem;
     color: rgb(54, 54, 54);
 }
+=======
+    justify-content: center;
+    font-family: sans-serif;
+}
+>>>>>>> 8f2e830e801b9aced350a1917d9c0cda71b8885c
